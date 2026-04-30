@@ -14,8 +14,8 @@ Atualmente no 1º semestre da graduação, busco consolidar fundamentos sólidos
 <a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></a>&nbsp;&nbsp;
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></a>&nbsp;&nbsp;
 <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"></a>&nbsp;&nbsp;
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"></a>
 </p>
